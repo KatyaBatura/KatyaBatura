@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @KatyaBatura
 
-- 💚 I’m interested in developing Tech for Social Good
-- 🌱 I’m currently learning React & Node.js
+- 💚 I’m interested in developing Tech to improve people's lives.
+- 🌱 I’ve lately been learning Android Studio
 - 🔗 My portfolo is at [katyabatura.github.io](https://katyabatura.github.io/) 
-- 🔔  You can reach out to me on [Linkedin](https://www.linkedin.com/in/katyabatura/) 
+- 🔔  You can reach out to me on [Linkedin](https://www.linkedin.com/in/katyabatura/)
 
 <!---
 KatyaBatura/KatyaBatura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
